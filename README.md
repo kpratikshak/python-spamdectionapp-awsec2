@@ -59,13 +59,13 @@ pip --version
 
 ## Step 4: Set Up the Flask App
 
-1. Clone your Flask app repository: [Here's my repo](./SpamEmail)
+1. Clone your Flask app repository: Here's my repo(./Src)
 
 ```bash
 git clone <repository-url>
 ```
 
-2. Navigate to the project folder (in my case *spamemail*):
+2. Navigate to the project folder (in my case *Src*):
 
 ```bash
 ls
@@ -134,4 +134,3 @@ Replace `app:app` with your actual module and app name if different.
 
 This concludes the setup for deploying your AI Spam detection application on AWS EC2!
 
-[Check out the screenshot of what the app looks like](./The-AI-Spam-Detection-App-(running))
